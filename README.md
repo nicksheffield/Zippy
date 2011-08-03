@@ -4,7 +4,7 @@ Zippy is a simple PHP Zip file extractor.
 
 ## Usage
 
-Upload Zippy.php into the same directory as your ZIP archives and navigate to it via the url (e.g. http://<yoursite.com>/Zippy.php).
+Upload Zippy.php into the same directory as your ZIP archives and navigate to it via the url (e.g. http://example.com/Zippy.php).
 
 
 ## Known Issues
