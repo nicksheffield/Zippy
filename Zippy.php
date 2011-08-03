@@ -391,8 +391,7 @@ if(! ob_start('ob_gzhandler')) ob_start();
     <div id="Container">
         <h1>Welcome to Zippy</h1>
         
-        <p>Zippy aims to provide easy .zip archive extractions. The features speak for themselves in the form.<br />
-        Here's a small <a href="#Disclaimer">disclaimer</a> of sorts.</p>
+        <p>Zippy aims to provide easy .zip archive extractions. The features speak for themselves in the form.</p>
         
         <?php if($debug) : ?>
             <?php if($error): ?>
