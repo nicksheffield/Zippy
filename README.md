@@ -10,3 +10,5 @@ Upload Zippy.php into the same directory as your ZIP archives and navigate to it
 ## Known Issues
 
 - Zippy does not function or make any notification if the ZipArchive PHP class that's packaged with the zlib PHP extension cannot be found.
+
+#2013
